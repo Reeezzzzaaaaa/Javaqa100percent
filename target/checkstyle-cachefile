@@ -1,0 +1,4 @@
+#Sat Jun 11 01:08:55 MSK 2022
+configuration*?=6F2D342916F44B5AA0652731FB128D872C14D5BA
+module-resource*?\:checkstyle-xpath-suppressions.xml=3C8000F42528568D2EDD157161BBB5EC578C7CC4
+module-resource*?\:checkstyle-suppressions.xml=A22EA8B539BA5F99845A01FBF16DE116706856D3
